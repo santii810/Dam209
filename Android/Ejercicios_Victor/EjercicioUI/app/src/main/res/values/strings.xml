@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjercicioUI</string>
+    <string name="button1_text">Botón 1</string>
+    <string name="button2_text">Botón 2</string>
+</resources>

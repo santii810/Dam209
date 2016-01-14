@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Greetings</string>
+
+    <string name="name">Nombre:</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_greetings">GreetingsActivity</string>
+
+    <string name="greeting_message">Hola %s!!</string>
+    <string name="accept">Aceptar</string>
+</resources>

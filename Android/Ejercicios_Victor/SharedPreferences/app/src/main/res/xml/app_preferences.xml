@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Datos de usuario">
+        <EditTextPreference
+            android:title="Usuario"
+            android:defaultValue="[Nombre de usuario]"
+            android:summary="Introduce el nombre de usuario"
+            android:key="userName" />
+        <CheckBoxPreference
+            android:title="Te mola?"
+            android:defaultValue="true"
+            android:summary="Indica si te mola la app"
+            android:key="mola" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Sonido de la app">
+        <RingtonePreference
+            android:title="Ringtone"
+            android:summary="Selecciona el tono de la aplicación"
+            android:key="ringtone" />
+    </PreferenceCategory>
+</PreferenceScreen>
