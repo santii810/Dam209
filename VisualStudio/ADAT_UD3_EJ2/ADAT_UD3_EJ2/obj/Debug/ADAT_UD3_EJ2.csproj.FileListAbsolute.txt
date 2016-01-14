@@ -1,1 +1,11 @@
 c:\users\dam209\Proyectos\VisualStudio\ADAT_UD3_EJ2\ADAT_UD3_EJ2\bin\Debug\ADAT_UD3_EJ2.exe.config
+C:\Users\dam209\Proyectos\VisualStudio\ADAT_UD3_EJ2\ADAT_UD3_EJ2\bin\Debug\ADAT_UD3_EJ2.exe
+C:\Users\dam209\Proyectos\VisualStudio\ADAT_UD3_EJ2\ADAT_UD3_EJ2\bin\Debug\ADAT_UD3_EJ2.pdb
+C:\Users\dam209\Proyectos\VisualStudio\ADAT_UD3_EJ2\ADAT_UD3_EJ2\obj\Debug\ADAT_UD3_EJ2.csprojResolveAssemblyReference.cache
+C:\Users\dam209\Proyectos\VisualStudio\ADAT_UD3_EJ2\ADAT_UD3_EJ2\obj\Debug\ADAT_UD3_EJ2.Form1.resources
+C:\Users\dam209\Proyectos\VisualStudio\ADAT_UD3_EJ2\ADAT_UD3_EJ2\obj\Debug\ADAT_UD3_EJ2.FormHistorial.resources
+C:\Users\dam209\Proyectos\VisualStudio\ADAT_UD3_EJ2\ADAT_UD3_EJ2\obj\Debug\ADAT_UD3_EJ2.Properties.Resources.resources
+C:\Users\dam209\Proyectos\VisualStudio\ADAT_UD3_EJ2\ADAT_UD3_EJ2\obj\Debug\ADAT_UD3_EJ2.SeleccionarUsuario.resources
+C:\Users\dam209\Proyectos\VisualStudio\ADAT_UD3_EJ2\ADAT_UD3_EJ2\obj\Debug\ADAT_UD3_EJ2.csproj.GenerateResource.Cache
+C:\Users\dam209\Proyectos\VisualStudio\ADAT_UD3_EJ2\ADAT_UD3_EJ2\obj\Debug\ADAT_UD3_EJ2.exe
+C:\Users\dam209\Proyectos\VisualStudio\ADAT_UD3_EJ2\ADAT_UD3_EJ2\obj\Debug\ADAT_UD3_EJ2.pdb
