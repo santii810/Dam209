@@ -1,0 +1,8 @@
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ejer2.3_Colores\DINT_Ejer2.3_Colores\bin\Debug\DINT_Ejer2.3_Colores.exe.config
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ejer2.3_Colores\DINT_Ejer2.3_Colores\bin\Debug\DINT_Ejer2.3_Colores.exe
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ejer2.3_Colores\DINT_Ejer2.3_Colores\bin\Debug\DINT_Ejer2.3_Colores.pdb
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ejer2.3_Colores\DINT_Ejer2.3_Colores\obj\Debug\DINT_Ejer2._3_Colores.Colores.resources
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ejer2.3_Colores\DINT_Ejer2.3_Colores\obj\Debug\DINT_Ejer2._3_Colores.Properties.Resources.resources
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ejer2.3_Colores\DINT_Ejer2.3_Colores\obj\Debug\DINT_Ejer2.3_Colores.csproj.GenerateResource.Cache
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ejer2.3_Colores\DINT_Ejer2.3_Colores\obj\Debug\DINT_Ejer2.3_Colores.exe
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ejer2.3_Colores\DINT_Ejer2.3_Colores\obj\Debug\DINT_Ejer2.3_Colores.pdb

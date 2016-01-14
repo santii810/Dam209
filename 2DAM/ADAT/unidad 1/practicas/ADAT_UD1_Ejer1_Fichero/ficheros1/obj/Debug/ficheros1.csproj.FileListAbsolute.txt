@@ -1,0 +1,13 @@
+c:\users\dam208\documents\visual studio 2015\Projects\ficheros1\ficheros1\bin\Debug\ficheros1.exe.config
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer1_Fichero\ficheros1\bin\Debug\ficheros1.exe.config
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer1_Fichero\ficheros1\bin\Debug\ficheros1.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer1_Fichero\ficheros1\bin\Debug\ficheros1.pdb
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer1_Fichero\ficheros1\obj\Debug\ficheros1.csprojResolveAssemblyReference.cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer1_Fichero\ficheros1\obj\Debug\ficheros1.Form1.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer1_Fichero\ficheros1\obj\Debug\ficheros1.Properties.Resources.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer1_Fichero\ficheros1\obj\Debug\ficheros1.csproj.GenerateResource.Cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer1_Fichero\ficheros1\obj\Debug\ficheros1.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer1_Fichero\ficheros1\obj\Debug\ficheros1.pdb
+Z:\ADAT\unidad 1\practicas\ADAT_UD1_Ejer1_Fichero\ficheros1\bin\Debug\ficheros1.exe.config
+Z:\ADAT\unidad 1\practicas\ADAT_UD1_Ejer1_Fichero\ficheros1\obj\Debug\ficheros1.exe
+Z:\ADAT\unidad 1\practicas\ADAT_UD1_Ejer1_Fichero\ficheros1\obj\Debug\ficheros1.pdb

@@ -1,0 +1,29 @@
+DMA = Direct Memory Access
+
+
+Programacion distribuida: 
+	Cada uno de los microprocesadores tienen una memoria independiente
+	Creacion de redes distribuidas: Clientes de estas redes ceden tiempo de procesador a un servidor (ej: minado bitcoins)
+
+Procesos (hilos):
+	ESTADOS (Nuevo - Listo - Ejecucion - Bloqueado - Terminado)
+		1_NUEVO: 
+			Cuando se abre una tarea
+			
+		2_LISTO:
+			Proceso en cola de ser ejecutado
+			
+		EN EJECUCION:
+			Momento en el que pasa a ejecucion
+			
+		TERMINADO:
+			Se llega a este estado por una Excepcion o Finalizacion (lectura de la ultima linea del codigo a ejecutar)
+			Se libera la ejecucion para la entrada de nuevos hilos
+			
+		BLOQUEADO:
+			Puede pasar de ejecucion a bloqueado por operaciones de entrada-salida (Una impresora ocupada)
+
+
+	
+	
+	

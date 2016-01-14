@@ -1,0 +1,9 @@
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_Apuestas\Examen1_Apuestas\bin\Debug\Examen1_Apuestas.exe.config
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_Apuestas\Examen1_Apuestas\bin\Debug\Examen1_Apuestas.exe
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_Apuestas\Examen1_Apuestas\bin\Debug\Examen1_Apuestas.pdb
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_Apuestas\Examen1_Apuestas\obj\Debug\Examen1_Apuestas.csprojResolveAssemblyReference.cache
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_Apuestas\Examen1_Apuestas\obj\Debug\Examen1_Apuestas.Form1.resources
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_Apuestas\Examen1_Apuestas\obj\Debug\Examen1_Apuestas.Properties.Resources.resources
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_Apuestas\Examen1_Apuestas\obj\Debug\Examen1_Apuestas.csproj.GenerateResource.Cache
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_Apuestas\Examen1_Apuestas\obj\Debug\Examen1_Apuestas.exe
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_Apuestas\Examen1_Apuestas\obj\Debug\Examen1_Apuestas.pdb

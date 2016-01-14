@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<factura>
+  <cabecera>
+    <numero>1</numero>
+    <codClient>aewads</codClient>
+    <nameClient>qweqweqwe</nameClient>
+    <dirClient>wqeweqwe</dirClient>
+    <tlfClient>3123124</tlfClient>
+    <fecha>05/11/2015 12:20:50</fecha>
+  </cabecera>
+  <detalles>
+    <producto>
+      <item>1</item>
+      <codigo>qeweqewr</codigo>
+      <descripcion>qeweqewr</descripcion>
+      <cantidad>1</cantidad>
+      <precio>2</precio>
+      <total>0</total>
+    </producto>
+  </detalles>
+</factura>

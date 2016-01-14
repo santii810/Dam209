@@ -1,0 +1,5 @@
+C:\Users\sgomez\OneDrive\Proyectos\VisualStudio\DINT_UD2_Ej6\DINT_UD2_Ej6\bin\Debug\DINT_UD2_Ej6.exe.config
+C:\Users\sgomez\OneDrive\Proyectos\VisualStudio\DINT_UD2_Ej6\DINT_UD2_Ej6\obj\Debug\MainWindow.g.cs
+C:\Users\sgomez\OneDrive\Proyectos\VisualStudio\DINT_UD2_Ej6\DINT_UD2_Ej6\obj\Debug\App.g.cs
+C:\Users\sgomez\OneDrive\Proyectos\VisualStudio\DINT_UD2_Ej6\DINT_UD2_Ej6\obj\Debug\DINT_UD2_Ej6_MarkupCompile.cache
+C:\Users\sgomez\OneDrive\Proyectos\VisualStudio\DINT_UD2_Ej6\DINT_UD2_Ej6\obj\Debug\DINT_UD2_Ej6_MarkupCompile.lref

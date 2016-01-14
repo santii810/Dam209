@@ -1,0 +1,29 @@
+﻿<Window x:Class="DataBindingEditorTexto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataBindingEditorTexto"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ToolBar x:Name="toolBar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="507">
+            <Slider x:Name="slider" Width="144" Minimum="10" Maximum="72"></Slider>
+            <TextBox x:Name="tamanho" Margin="0" Width="24" Text="{Binding ElementName=slider, Path=Value, Mode=TwoWay}"></TextBox>
+            <Separator></Separator>
+            <TextBox Margin="0" Width="193" Text="{Binding ElementName=FontList, Path=SelectedItem}"></TextBox>
+        </ToolBar>
+        <ListBox Margin="10,27,337,10" x:Name="FontList" ItemsSource="{x:Static Fonts.SystemFontFamilies}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}" FontFamily="{Binding}"></TextBlock>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <RichTextBox x:Name="richTextBox" HorizontalAlignment="Left" Margin="185,27,0,10" Width="322" FontFamily="{Binding ElementName=FontList,Path=SelectedItem}" FontSize="{Binding ElementName=slider, Path=Value}">
+            <FlowDocument/>
+        </RichTextBox>
+
+
+    </Grid>
+</Window>

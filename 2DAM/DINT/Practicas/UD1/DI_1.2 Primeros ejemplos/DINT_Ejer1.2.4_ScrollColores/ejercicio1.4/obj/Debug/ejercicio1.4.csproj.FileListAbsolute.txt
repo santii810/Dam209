@@ -1,0 +1,22 @@
+C:\Users\dam206\Desktop\DAM2\DI\Unidad 1\ejercicio1.4\ejercicio1.4\bin\Debug\ejercicio1.4.exe.config
+\\servidor\ALUMNOS1516\DAM2\DAM209\Compartida\ejercicio1.4\ejercicio1.4\bin\Debug\ejercicio1.4.exe.config
+\\servidor\ALUMNOS1516\DAM2\DAM209\Compartida\ejercicio1.4\ejercicio1.4\bin\Debug\ejercicio1.4.exe
+\\servidor\ALUMNOS1516\DAM2\DAM209\Compartida\ejercicio1.4\ejercicio1.4\bin\Debug\ejercicio1.4.pdb
+\\servidor\ALUMNOS1516\DAM2\DAM209\Compartida\ejercicio1.4\ejercicio1.4\obj\Debug\ejercicio1.4.csprojResolveAssemblyReference.cache
+\\servidor\ALUMNOS1516\DAM2\DAM209\Compartida\ejercicio1.4\ejercicio1.4\obj\Debug\ejercicio1._4.Form1.resources
+\\servidor\ALUMNOS1516\DAM2\DAM209\Compartida\ejercicio1.4\ejercicio1.4\obj\Debug\ejercicio1._4.Properties.Resources.resources
+\\servidor\ALUMNOS1516\DAM2\DAM209\Compartida\ejercicio1.4\ejercicio1.4\obj\Debug\ejercicio1.4.csproj.GenerateResource.Cache
+\\servidor\ALUMNOS1516\DAM2\DAM209\Compartida\ejercicio1.4\ejercicio1.4\obj\Debug\ejercicio1.4.exe
+\\servidor\ALUMNOS1516\DAM2\DAM209\Compartida\ejercicio1.4\ejercicio1.4\obj\Debug\ejercicio1.4.pdb
+C:\Users\dam209\Proyectos\VisualStudio\ejercicio1.4\ejercicio1.4\bin\Debug\ejercicio1.4.exe.config
+C:\Users\dam209\Proyectos\VisualStudio\ejercicio1.4\ejercicio1.4\obj\Debug\ejercicio1.4.exe
+C:\Users\dam209\Proyectos\VisualStudio\ejercicio1.4\ejercicio1.4\obj\Debug\ejercicio1.4.pdb
+C:\Users\dam209\Proyectos\VisualStudio\ejercicio1.4\ejercicio1.4\bin\Debug\ejercicio1.4.exe
+C:\Users\dam209\Proyectos\VisualStudio\ejercicio1.4\ejercicio1.4\bin\Debug\ejercicio1.4.pdb
+C:\Users\dam209\Proyectos\VisualStudio\ejercicio1.4\ejercicio1.4\obj\Debug\ejercicio1.4.csprojResolveAssemblyReference.cache
+C:\Users\dam209\Proyectos\VisualStudio\ejercicio1.4\ejercicio1.4\obj\Debug\ejercicio1._4.Form1.resources
+C:\Users\dam209\Proyectos\VisualStudio\ejercicio1.4\ejercicio1.4\obj\Debug\ejercicio1._4.Properties.Resources.resources
+C:\Users\dam209\Proyectos\VisualStudio\ejercicio1.4\ejercicio1.4\obj\Debug\ejercicio1.4.csproj.GenerateResource.Cache
+Z:\DINT\Practicas\DI_1.2 Primeros ejemplos\DINT_Ejer1.2.4_ScrollColores\ejercicio1.4\bin\Debug\ejercicio1.4.exe.config
+Z:\DINT\Practicas\DI_1.2 Primeros ejemplos\DINT_Ejer1.2.4_ScrollColores\ejercicio1.4\obj\Debug\ejercicio1.4.exe
+Z:\DINT\Practicas\DI_1.2 Primeros ejemplos\DINT_Ejer1.2.4_ScrollColores\ejercicio1.4\obj\Debug\ejercicio1.4.pdb

@@ -1,0 +1,10 @@
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_1Ejemplo\PRSP_1Ejemplo\bin\Debug\PRSP_1Ejemplo.exe.config
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_01EjemploProcesos\PRSP_1Ejemplo\bin\Debug\PRSP_1Ejemplo.exe.config
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_01EjemploProcesos\PRSP_1Ejemplo\bin\Debug\PRSP_1Ejemplo.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_01EjemploProcesos\PRSP_1Ejemplo\bin\Debug\PRSP_1Ejemplo.pdb
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_01EjemploProcesos\PRSP_1Ejemplo\obj\Debug\PRSP_1Ejemplo.csprojResolveAssemblyReference.cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_01EjemploProcesos\PRSP_1Ejemplo\obj\Debug\PRSP_1Ejemplo.Form1.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_01EjemploProcesos\PRSP_1Ejemplo\obj\Debug\PRSP_1Ejemplo.Properties.Resources.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_01EjemploProcesos\PRSP_1Ejemplo\obj\Debug\PRSP_1Ejemplo.csproj.GenerateResource.Cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_01EjemploProcesos\PRSP_1Ejemplo\obj\Debug\PRSP_1Ejemplo.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_01EjemploProcesos\PRSP_1Ejemplo\obj\Debug\PRSP_1Ejemplo.pdb

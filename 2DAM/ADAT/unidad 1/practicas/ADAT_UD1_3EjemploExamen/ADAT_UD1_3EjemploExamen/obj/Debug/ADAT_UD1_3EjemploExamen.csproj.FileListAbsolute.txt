@@ -1,0 +1,9 @@
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_3EjemploExamen\ADAT_UD1_3EjemploExamen\bin\Debug\ADAT_UD1_3EjemploExamen.exe.config
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_3EjemploExamen\ADAT_UD1_3EjemploExamen\bin\Debug\ADAT_UD1_3EjemploExamen.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_3EjemploExamen\ADAT_UD1_3EjemploExamen\bin\Debug\ADAT_UD1_3EjemploExamen.pdb
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_3EjemploExamen\ADAT_UD1_3EjemploExamen\obj\Debug\ADAT_UD1_3EjemploExamen.csprojResolveAssemblyReference.cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_3EjemploExamen\ADAT_UD1_3EjemploExamen\obj\Debug\ADAT_UD1_3EjemploExamen.Form1.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_3EjemploExamen\ADAT_UD1_3EjemploExamen\obj\Debug\ADAT_UD1_3EjemploExamen.Properties.Resources.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_3EjemploExamen\ADAT_UD1_3EjemploExamen\obj\Debug\ADAT_UD1_3EjemploExamen.csproj.GenerateResource.Cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_3EjemploExamen\ADAT_UD1_3EjemploExamen\obj\Debug\ADAT_UD1_3EjemploExamen.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_3EjemploExamen\ADAT_UD1_3EjemploExamen\obj\Debug\ADAT_UD1_3EjemploExamen.pdb

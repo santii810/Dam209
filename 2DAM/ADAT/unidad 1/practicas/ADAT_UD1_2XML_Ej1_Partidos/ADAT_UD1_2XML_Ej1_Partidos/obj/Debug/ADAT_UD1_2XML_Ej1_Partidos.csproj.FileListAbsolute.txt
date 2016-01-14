@@ -1,0 +1,9 @@
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej1_Partidos\ADAT_UD1_2XML_Ej1_Partidos\bin\Debug\ADAT_UD1_2XML_Ej1_Partidos.exe.config
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej1_Partidos\ADAT_UD1_2XML_Ej1_Partidos\bin\Debug\ADAT_UD1_2XML_Ej1_Partidos.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej1_Partidos\ADAT_UD1_2XML_Ej1_Partidos\bin\Debug\ADAT_UD1_2XML_Ej1_Partidos.pdb
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej1_Partidos\ADAT_UD1_2XML_Ej1_Partidos\obj\Debug\ADAT_UD1_2XML_Ej1_Partidos.csprojResolveAssemblyReference.cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej1_Partidos\ADAT_UD1_2XML_Ej1_Partidos\obj\Debug\ADAT_UD1_2XML_Ej1_Partidos.Form1.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej1_Partidos\ADAT_UD1_2XML_Ej1_Partidos\obj\Debug\ADAT_UD1_2XML_Ej1_Partidos.Properties.Resources.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej1_Partidos\ADAT_UD1_2XML_Ej1_Partidos\obj\Debug\ADAT_UD1_2XML_Ej1_Partidos.csproj.GenerateResource.Cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej1_Partidos\ADAT_UD1_2XML_Ej1_Partidos\obj\Debug\ADAT_UD1_2XML_Ej1_Partidos.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej1_Partidos\ADAT_UD1_2XML_Ej1_Partidos\obj\Debug\ADAT_UD1_2XML_Ej1_Partidos.pdb

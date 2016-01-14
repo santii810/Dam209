@@ -1,0 +1,12 @@
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\ADATA_UD1_5Meteogalicia\ADATA_UD1_5Meteogalicia\bin\Debug\ADATA_UD1_5Meteogalicia.exe.config
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\ADATA_UD1_5Meteogalicia\ADATA_UD1_5Meteogalicia\obj\Debug\ADATA_UD1_5Meteogalicia.csprojResolveAssemblyReference.cache
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\ADATA_UD1_5Meteogalicia\ADATA_UD1_5Meteogalicia\obj\Debug\ADATA_UD1_5Meteogalicia.Form1.resources
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\ADATA_UD1_5Meteogalicia\ADATA_UD1_5Meteogalicia\obj\Debug\ADATA_UD1_5Meteogalicia.Properties.Resources.resources
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\ADATA_UD1_5Meteogalicia\ADATA_UD1_5Meteogalicia\obj\Debug\ADATA_UD1_5Meteogalicia.csproj.GenerateResource.Cache
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\ADATA_UD1_5Meteogalicia\ADATA_UD1_5Meteogalicia\bin\Debug\ADATA_UD1_5Meteogalicia.exe
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\ADATA_UD1_5Meteogalicia\ADATA_UD1_5Meteogalicia\bin\Debug\ADATA_UD1_5Meteogalicia.pdb
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\ADATA_UD1_5Meteogalicia\ADATA_UD1_5Meteogalicia\obj\Debug\ADATA_UD1_5Meteogalicia.exe
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\ADATA_UD1_5Meteogalicia\ADATA_UD1_5Meteogalicia\obj\Debug\ADATA_UD1_5Meteogalicia.pdb
+C:\Users\sgomez\OneDrive\Proyectos\VisualStudio\ADATA_UD1_5Meteogalicia\ADATA_UD1_5Meteogalicia\bin\Debug\ADATA_UD1_5Meteogalicia.exe.config
+C:\Users\sgomez\OneDrive\Proyectos\VisualStudio\ADATA_UD1_5Meteogalicia\ADATA_UD1_5Meteogalicia\obj\Debug\ADATA_UD1_5Meteogalicia.exe
+C:\Users\sgomez\OneDrive\Proyectos\VisualStudio\ADATA_UD1_5Meteogalicia\ADATA_UD1_5Meteogalicia\obj\Debug\ADATA_UD1_5Meteogalicia.pdb

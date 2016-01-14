@@ -1,0 +1,41 @@
+Ana Diz
+1-a
+2-c
+3-a
+4-b
+5-d
+6-a
+7-c
+8-c
+10-a
+Juan Gomez
+2-a
+3-a
+4-b
+5-d
+6-a
+7-c
+8-c
+10-a
+Marcos Hernández
+1-a
+2-c
+3-a
+4-b
+5-d
+6-a
+7-c
+8-c
+9-c
+10-a
+Marcos Hernández
+1-b
+2-c
+3-a
+4-c
+5-d
+6-a
+7-c
+8-c
+9-c
+10-a

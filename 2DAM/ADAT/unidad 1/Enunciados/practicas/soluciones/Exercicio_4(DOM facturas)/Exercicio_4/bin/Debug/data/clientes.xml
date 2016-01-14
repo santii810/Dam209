@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+	<cliente>
+      		<codigo>1</codigo>
+      		<nombre>Jose Montes Mosquera</nombre>
+      		<direccion>c. Juan XXIII,5  </direccion>   
+		<telefono>9123124</telefono>  
+    	</cliente>	
+	<cliente>
+      		<codigo>2</codigo>
+      		<nombre>Martin Marquez Diz</nombre>
+      		<direccion>c. Juan XXIII,5  </direccion>   
+		<telefono>9123124</telefono>  
+    	</cliente>
+	<cliente>
+      		<codigo>3</codigo>
+      		<nombre>Maria Suarez De la Rosa</nombre>
+      		<direccion>c. Juan XXIII,5  </direccion>   
+		<telefono>9123124</telefono>   
+    	</cliente>
+</clientes>

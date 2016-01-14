@@ -1,0 +1,9 @@
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej2\ADAT_UD1_2XML_Ej2\bin\Debug\ADAT_UD1_2XML_Ej2.exe.config
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej2\ADAT_UD1_2XML_Ej2\bin\Debug\ADAT_UD1_2XML_Ej2.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej2\ADAT_UD1_2XML_Ej2\bin\Debug\ADAT_UD1_2XML_Ej2.pdb
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej2\ADAT_UD1_2XML_Ej2\obj\Debug\ADAT_UD1_2XML_Ej2.csprojResolveAssemblyReference.cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej2\ADAT_UD1_2XML_Ej2\obj\Debug\ADAT_UD1_2XML_Ej2.Form1.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej2\ADAT_UD1_2XML_Ej2\obj\Debug\ADAT_UD1_2XML_Ej2.Properties.Resources.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej2\ADAT_UD1_2XML_Ej2\obj\Debug\ADAT_UD1_2XML_Ej2.csproj.GenerateResource.Cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej2\ADAT_UD1_2XML_Ej2\obj\Debug\ADAT_UD1_2XML_Ej2.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ej2\ADAT_UD1_2XML_Ej2\obj\Debug\ADAT_UD1_2XML_Ej2.pdb

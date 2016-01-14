@@ -1,0 +1,15 @@
+c:\users\luzpc\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\luzpc\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\luzpc\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\luzpc\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\MeteoGalicia.csprojResolveAssemblyReference.cache
+c:\users\luzpc\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\luzpc\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\LUZPC\Documents\Visual Studio 2013\Projects\MeteoGalica\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\LUZPC\Documents\Visual Studio 2013\Projects\MeteoGalica\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\LUZPC\Documents\Visual Studio 2013\Projects\MeteoGalica\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\DAM\unidad 1\practicas\xml\Modelo Dom\MeteoGalica\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\DAM\unidad 1\practicas\xml\Modelo Dom\MeteoGalica\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\DAM\unidad 1\practicas\xml\Modelo Dom\MeteoGalica\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\DAM\unidad 1\practicas\xml\Modelo Dom\MeteoGalica\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\DAM\unidad 1\practicas\xml\Modelo Dom\MeteoGalica\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\DAM\unidad 1\practicas\xml\Modelo Dom\MeteoGalica\ConsoleApplication1\obj\Debug\MeteoGalicia.csprojResolveAssemblyReference.cache

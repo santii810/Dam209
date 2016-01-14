@@ -1,0 +1,9 @@
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Ej1.6_EditorDeTexto\DINT_Ej1.6_EditorDeTexto\bin\Debug\DINT_Ej1.6_EditorDeTexto.exe.config
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Ej1.6_EditorDeTexto\DINT_Ej1.6_EditorDeTexto\bin\Debug\DINT_Ej1.6_EditorDeTexto.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Ej1.6_EditorDeTexto\DINT_Ej1.6_EditorDeTexto\bin\Debug\DINT_Ej1.6_EditorDeTexto.pdb
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Ej1.6_EditorDeTexto\DINT_Ej1.6_EditorDeTexto\obj\Debug\DINT_Ej1.6_EditorDeTexto.csprojResolveAssemblyReference.cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Ej1.6_EditorDeTexto\DINT_Ej1.6_EditorDeTexto\obj\Debug\DINT_Ej1._6_EditorDeTexto.Form1.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Ej1.6_EditorDeTexto\DINT_Ej1.6_EditorDeTexto\obj\Debug\DINT_Ej1._6_EditorDeTexto.Properties.Resources.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Ej1.6_EditorDeTexto\DINT_Ej1.6_EditorDeTexto\obj\Debug\DINT_Ej1.6_EditorDeTexto.csproj.GenerateResource.Cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Ej1.6_EditorDeTexto\DINT_Ej1.6_EditorDeTexto\obj\Debug\DINT_Ej1.6_EditorDeTexto.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Ej1.6_EditorDeTexto\DINT_Ej1.6_EditorDeTexto\obj\Debug\DINT_Ej1.6_EditorDeTexto.pdb

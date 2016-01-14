@@ -1,0 +1,9 @@
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer2_Ahorcado\ADAT_UD1_Ejer2_Ahorcado\bin\Debug\ADAT_UD1_Ejer2_Ahorcado.exe.config
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer2_Ahorcado\ADAT_UD1_Ejer2_Ahorcado\bin\Debug\ADAT_UD1_Ejer2_Ahorcado.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer2_Ahorcado\ADAT_UD1_Ejer2_Ahorcado\bin\Debug\ADAT_UD1_Ejer2_Ahorcado.pdb
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer2_Ahorcado\ADAT_UD1_Ejer2_Ahorcado\obj\Debug\ADAT_UD1_Ejer2_Ahorcado.csprojResolveAssemblyReference.cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer2_Ahorcado\ADAT_UD1_Ejer2_Ahorcado\obj\Debug\ADAT_UD1_Ejer2_Ahorcado.Form1.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer2_Ahorcado\ADAT_UD1_Ejer2_Ahorcado\obj\Debug\ADAT_UD1_Ejer2_Ahorcado.Properties.Resources.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer2_Ahorcado\ADAT_UD1_Ejer2_Ahorcado\obj\Debug\ADAT_UD1_Ejer2_Ahorcado.csproj.GenerateResource.Cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer2_Ahorcado\ADAT_UD1_Ejer2_Ahorcado\obj\Debug\ADAT_UD1_Ejer2_Ahorcado.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer2_Ahorcado\ADAT_UD1_Ejer2_Ahorcado\obj\Debug\ADAT_UD1_Ejer2_Ahorcado.pdb

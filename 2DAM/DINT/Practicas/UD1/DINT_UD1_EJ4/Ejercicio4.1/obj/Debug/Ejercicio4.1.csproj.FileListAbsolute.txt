@@ -1,0 +1,19 @@
+C:\Users\dam206\Desktop\DAM2\DI\Unidad 1\Ejercicio4.1\Ejercicio4.1\bin\Debug\Ejercicio4.1.exe.config
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\Dint 3.1\Ejercicio4.1\bin\Debug\Ejercicio4.1.exe.config
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\Dint 3.1\Ejercicio4.1\bin\Debug\Ejercicio4.1.exe
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\Dint 3.1\Ejercicio4.1\bin\Debug\Ejercicio4.1.pdb
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\Dint 3.1\Ejercicio4.1\obj\Debug\Ejercicio4.1.csprojResolveAssemblyReference.cache
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\Dint 3.1\Ejercicio4.1\obj\Debug\Ejercicio4._1.Form1.resources
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\Dint 3.1\Ejercicio4.1\obj\Debug\Ejercicio4._1.Properties.Resources.resources
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\Dint 3.1\Ejercicio4.1\obj\Debug\Ejercicio4.1.csproj.GenerateResource.Cache
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\Dint 3.1\Ejercicio4.1\obj\Debug\Ejercicio4.1.exe
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\Dint 3.1\Ejercicio4.1\obj\Debug\Ejercicio4.1.pdb
+F:\DINT_UD1_EJ4\Ejercicio4.1\bin\Debug\Ejercicio4.1.exe.config
+F:\DINT_UD1_EJ4\Ejercicio4.1\obj\Debug\Ejercicio4.1.exe
+F:\DINT_UD1_EJ4\Ejercicio4.1\obj\Debug\Ejercicio4.1.pdb
+F:\DINT_UD1_EJ4\Ejercicio4.1\bin\Debug\Ejercicio4.1.exe
+F:\DINT_UD1_EJ4\Ejercicio4.1\bin\Debug\Ejercicio4.1.pdb
+F:\DINT_UD1_EJ4\Ejercicio4.1\obj\Debug\Ejercicio4.1.csprojResolveAssemblyReference.cache
+F:\DINT_UD1_EJ4\Ejercicio4.1\obj\Debug\Ejercicio4._1.Form1.resources
+F:\DINT_UD1_EJ4\Ejercicio4.1\obj\Debug\Ejercicio4._1.Properties.Resources.resources
+F:\DINT_UD1_EJ4\Ejercicio4.1\obj\Debug\Ejercicio4.1.csproj.GenerateResource.Cache

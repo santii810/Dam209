@@ -1,0 +1,118 @@
+<Faltas>
+	<DatosAlumnos>
+		<Alumno id="1"> Ana  Ruiz Lopez </Alumno>
+		<Alumno id="2"> Juan Alvarez Ruíz </Alumno>
+		<Alumno id="3"> Antonio Sanchez Lamas </Alumno>
+		<Alumno id="4"> Maria Gonzalez Gonzalez </Alumno>
+		<Alumno id="5">  Roberto Dieguez Roman </Alumno>
+		<Alumno id="6"> Martin Crespo Diz  </Alumno>
+		<Alumno id="7"> Andres Alvarez Montesinos </Alumno>
+		<Alumno id="8">  Lucia Dominguez Araujo</Alumno>
+		<Alumno id="9">  Alba Conde Romero</Alumno>
+		<Alumno id="10">  jose Montes Vázquez </Alumno>
+		<Alumno id="10"> Luis Sobrino Gomez </Alumno>
+		<Alumno id="12"> Jaime Salvatierra Nogueira </Alumno>
+		<Alumno id="13"> Alberto Santos Martinez </Alumno>
+		<Alumno id="14">  Victor Novo Iglesias </Alumno>
+		<Alumno id="15"> Felipe Roman Vazquez  </Alumno>
+		<Alumno id="16"> Marta  Hernandez Cerdeira</Alumno>
+</DatosAlumnos>
+	<DatosFaltas mes="1" curso="2014-2015">
+		<Fecha valor="9/1/2015">
+			<Falta IdAlumno="1" hora="8:30" modulo="1" ></Falta>
+			<Falta IdAlumno="5" hora="8:30" modulo="1" ></Falta>
+			<Falta IdAlumno="11" hora="8:30" modulo="1" ></Falta>
+			<Falta IdAlumno="16" hora="8:30" modulo="1" ></Falta>
+			<Falta IdAlumno="1" hora="9:30" modulo="1" ></Falta>
+			<Falta IdAlumno="5" hora="9:30" modulo="1" ></Falta>
+			<Falta IdAlumno="11" hora="9:30" modulo="1" ></Falta>
+			<Falta IdAlumno="16" hora="9:30" modulo="1" ></Falta>
+			<Falta IdAlumno="1" hora="10:30" modulo="3" ></Falta>
+			<Falta IdAlumno="5" hora="10:30" modulo="3" ></Falta>
+			<Falta IdAlumno="11" hora="10:30" modulo="3" ></Falta>
+			<Falta IdAlumno="16" hora="10:30" modulo="3" ></Falta>
+			<Falta IdAlumno="1" hora="11:30" modulo="3" ></Falta>
+			<Falta IdAlumno="5" hora="11:30" modulo="3" ></Falta>
+			<Falta IdAlumno="11" hora="11:30" modulo="3" ></Falta>
+			<Falta IdAlumno="16" hora="11:30" modulo="3" ></Falta>
+		</Fecha>
+		<Fecha valor="10/1/2015">
+			<Falta IdAlumno="3" hora="8:30" modulo="1" ></Falta>
+			<Falta IdAlumno="4" hora="8:30" modulo="4" ></Falta>
+			<Falta IdAlumno="11" hora="8:30" modulo="4" ></Falta>
+			<Falta IdAlumno="16" hora="8:30" modulo="4" ></Falta>
+			<Falta IdAlumno="1" hora="9:30" modulo="4" ></Falta>
+			<Falta IdAlumno="5" hora="9:30" modulo="4" ></Falta>
+			<Falta IdAlumno="11" hora="9:30" modulo="4" ></Falta>
+			<Falta IdAlumno="16" hora="9:30" modulo="4" ></Falta>
+			<Falta IdAlumno="1" hora="10:30" modulo="3" ></Falta>
+			<Falta IdAlumno="5" hora="10:30" modulo="3" ></Falta>
+			<Falta IdAlumno="11" hora="10:30" modulo="3" ></Falta>
+			<Falta IdAlumno="16" hora="10:30" modulo="3" ></Falta>
+			<Falta IdAlumno="1" hora="11:30" modulo="3" ></Falta>
+			<Falta IdAlumno="5" hora="11:30" modulo="3" ></Falta>
+			<Falta IdAlumno="11" hora="11:30" modulo="3" ></Falta>
+			<Falta IdAlumno="16" hora="11:30" modulo="3" ></Falta>
+		</Fecha>
+		
+		
+		
+		<Fecha valor="12/1/2015">
+			<Falta IdAlumno="1" hora="8:30" modulo="1" ></Falta>
+			<Falta IdAlumno="5" hora="8:30" modulo="1" ></Falta>
+			<Falta IdAlumno="11" hora="8:30" modulo="1" ></Falta>
+			<Falta IdAlumno="16" hora="8:30" modulo="1" ></Falta>
+			<Falta IdAlumno="1" hora="9:30" modulo="1" ></Falta>
+			<Falta IdAlumno="5" hora="9:30" modulo="1" ></Falta>
+			<Falta IdAlumno="11" hora="9:30" modulo="1" ></Falta>
+			<Falta IdAlumno="16" hora="9:30" modulo="1" ></Falta>
+			<Falta IdAlumno="1" hora="10:30" modulo="5" ></Falta>
+			<Falta IdAlumno="5" hora="10:30" modulo="5" ></Falta>
+			<Falta IdAlumno="11" hora="10:30" modulo="5" ></Falta>
+			<Falta IdAlumno="16" hora="10:30" modulo="5" ></Falta>
+			<Falta IdAlumno="1" hora="11:30" modulo="5" ></Falta>
+			<Falta IdAlumno="5" hora="11:30" modulo="5" ></Falta>
+			<Falta IdAlumno="11" hora="11:30" modulo="5" ></Falta>
+			<Falta IdAlumno="16" hora="11:30" modulo="5" ></Falta>
+		</Fecha>
+		<Fecha valor="13/1/2015">
+			<Falta IdAlumno="3" hora="8:30" modulo="4" ></Falta>
+			<Falta IdAlumno="4" hora="8:30" modulo="4" ></Falta>
+			<Falta IdAlumno="11" hora="8:30" modulo="4" ></Falta>
+			<Falta IdAlumno="16" hora="8:30" modulo="4" ></Falta>
+			<Falta IdAlumno="1" hora="9:30" modulo="4" ></Falta>
+			<Falta IdAlumno="5" hora="9:30" modulo="4" ></Falta>
+			<Falta IdAlumno="11" hora="9:30" modulo="4" ></Falta>
+			<Falta IdAlumno="16" hora="9:30" modulo="4" ></Falta>
+			<Falta IdAlumno="1" hora="10:30" modulo="1" ></Falta>
+			<Falta IdAlumno="5" hora="10:30" modulo="1" ></Falta>
+			<Falta IdAlumno="11" hora="10:30" modulo="1" ></Falta>
+			<Falta IdAlumno="16" hora="10:30" modulo="1" ></Falta>
+			<Falta IdAlumno="1" hora="11:30" modulo="1" ></Falta>
+			<Falta IdAlumno="5" hora="11:30" modulo="1" ></Falta>
+			<Falta IdAlumno="11" hora="11:30" modulo="1" ></Falta>
+			<Falta IdAlumno="16" hora="11:30" modulo="1" ></Falta>
+		</Fecha>
+		<Fecha valor="14/1/2015">
+			<Falta IdAlumno="6" hora="8:30" modulo="6" ></Falta>
+			<Falta IdAlumno="7" hora="8:30" modulo="6" ></Falta>
+			<Falta IdAlumno="11" hora="8:30" modulo="6" ></Falta>
+			<Falta IdAlumno="16" hora="8:30" modulo="6" ></Falta>
+			<Falta IdAlumno="6" hora="9:30" modulo="6" ></Falta>
+			<Falta IdAlumno="7" hora="9:30" modulo="6" ></Falta>
+			<Falta IdAlumno="11" hora="9:30" modulo="6" ></Falta>
+			<Falta IdAlumno="16" hora="9:30" modulo="6" ></Falta>
+			<Falta IdAlumno="6" hora="10:30" modulo="3" ></Falta>
+			<Falta IdAlumno="7" hora="10:30" modulo="1" ></Falta>
+			<Falta IdAlumno="11" hora="10:30" modulo="1" ></Falta>
+			<Falta IdAlumno="16" hora="10:30" modulo="1" ></Falta>
+			<Falta IdAlumno="6" hora="11:30" modulo="1" ></Falta>
+			<Falta IdAlumno="7" hora="11:30" modulo="1" ></Falta>
+			<Falta IdAlumno="11" hora="11:30" modulo="1" ></Falta>
+			<Falta IdAlumno="16" hora="11:30" modulo="1" ></Falta>
+		</Fecha>
+	</DatosFaltas>
+
+
+
+</Faltas>

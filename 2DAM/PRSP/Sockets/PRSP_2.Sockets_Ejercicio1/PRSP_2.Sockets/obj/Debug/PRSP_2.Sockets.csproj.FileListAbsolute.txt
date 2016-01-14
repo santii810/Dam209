@@ -1,0 +1,9 @@
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_2.Sockets_Ejercicio1\PRSP_2.Sockets\bin\Debug\PRSP_2.Sockets.exe.config
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_2.Sockets_Ejercicio1\PRSP_2.Sockets\bin\Debug\PRSP_2.Sockets.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_2.Sockets_Ejercicio1\PRSP_2.Sockets\bin\Debug\PRSP_2.Sockets.pdb
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_2.Sockets_Ejercicio1\PRSP_2.Sockets\obj\Debug\PRSP_2.Sockets.csprojResolveAssemblyReference.cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_2.Sockets_Ejercicio1\PRSP_2.Sockets\obj\Debug\PRSP_2.Sockets.Form1.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_2.Sockets_Ejercicio1\PRSP_2.Sockets\obj\Debug\PRSP_2.Sockets.Properties.Resources.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_2.Sockets_Ejercicio1\PRSP_2.Sockets\obj\Debug\PRSP_2.Sockets.csproj.GenerateResource.Cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_2.Sockets_Ejercicio1\PRSP_2.Sockets\obj\Debug\PRSP_2.Sockets.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_2.Sockets_Ejercicio1\PRSP_2.Sockets\obj\Debug\PRSP_2.Sockets.pdb

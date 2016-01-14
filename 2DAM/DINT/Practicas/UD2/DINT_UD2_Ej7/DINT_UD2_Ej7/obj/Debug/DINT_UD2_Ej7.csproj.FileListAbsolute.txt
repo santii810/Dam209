@@ -1,0 +1,2 @@
+C:\Users\sgomez\OneDrive\Proyectos\VisualStudio\DINT_UD2_Ej7\DINT_UD2_Ej7\bin\Debug\DINT_UD2_Ej7.exe.config
+C:\Users\sgomez\OneDrive\2DAM\DINT\Practicas\UD2\DINT_UD2_Ej7\DINT_UD2_Ej7\bin\Debug\DINT_UD2_Ej7.exe.config

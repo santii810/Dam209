@@ -1,0 +1,9 @@
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ejer4_Factura\ADAT_UD1_2XML_Ejer4_Factura\bin\Debug\ADAT_UD1_2XML_Ejer4_Factura.exe.config
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ejer4_Factura\ADAT_UD1_2XML_Ejer4_Factura\bin\Debug\ADAT_UD1_2XML_Ejer4_Factura.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ejer4_Factura\ADAT_UD1_2XML_Ejer4_Factura\bin\Debug\ADAT_UD1_2XML_Ejer4_Factura.pdb
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ejer4_Factura\ADAT_UD1_2XML_Ejer4_Factura\obj\Debug\ADAT_UD1_2XML_Ejer4_Factura.csprojResolveAssemblyReference.cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ejer4_Factura\ADAT_UD1_2XML_Ejer4_Factura\obj\Debug\ADAT_UD1_2XML_Ejer4_Factura.Form1.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ejer4_Factura\ADAT_UD1_2XML_Ejer4_Factura\obj\Debug\ADAT_UD1_2XML_Ejer4_Factura.Properties.Resources.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ejer4_Factura\ADAT_UD1_2XML_Ejer4_Factura\obj\Debug\ADAT_UD1_2XML_Ejer4_Factura.csproj.GenerateResource.Cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ejer4_Factura\ADAT_UD1_2XML_Ejer4_Factura\obj\Debug\ADAT_UD1_2XML_Ejer4_Factura.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_2XML_Ejer4_Factura\ADAT_UD1_2XML_Ejer4_Factura\obj\Debug\ADAT_UD1_2XML_Ejer4_Factura.pdb

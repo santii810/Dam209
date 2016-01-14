@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPartido xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Partido>
+    <idEquipoLocal>18</idEquipoLocal>
+    <equipoLocal>Real Betis</equipoLocal>
+    <golesLocal>0</golesLocal>
+    <golesVisitante>0</golesVisitante>
+    <idEquipoVisitante>10</idEquipoVisitante>
+    <equipoVisitante>Valencia</equipoVisitante>
+  </Partido>
+  <Partido>
+    <idEquipoLocal>13</idEquipoLocal>
+    <equipoLocal>Granada</equipoLocal>
+    <golesLocal>0</golesLocal>
+    <golesVisitante>0</golesVisitante>
+    <idEquipoVisitante>8</idEquipoVisitante>
+    <equipoVisitante>RCD Espanyol</equipoVisitante>
+  </Partido>
+  <Partido>
+    <idEquipoLocal>6</idEquipoLocal>
+    <equipoLocal>Athletic Club</equipoLocal>
+    <golesLocal>0</golesLocal>
+    <golesVisitante>0</golesVisitante>
+    <idEquipoVisitante>15</idEquipoVisitante>
+    <equipoVisitante>Celta de Vigo</equipoVisitante>
+  </Partido>
+  <Partido>
+    <idEquipoLocal>4</idEquipoLocal>
+    <equipoLocal>Villarreal</equipoLocal>
+    <golesLocal>0</golesLocal>
+    <golesVisitante>0</golesVisitante>
+    <idEquipoVisitante>3</idEquipoVisitante>
+    <equipoVisitante>Real Madrid</equipoVisitante>
+  </Partido>
+  <Partido>
+    <idEquipoLocal>5</idEquipoLocal>
+    <equipoLocal>Getafe</equipoLocal>
+    <golesLocal>0</golesLocal>
+    <golesVisitante>0</golesVisitante>
+    <idEquipoVisitante>19</idEquipoVisitante>
+    <equipoVisitante>Osasuna</equipoVisitante>
+  </Partido>
+  <Partido>
+    <idEquipoLocal>12</idEquipoLocal>
+    <equipoLocal>Elche</equipoLocal>
+    <golesLocal>0</golesLocal>
+    <golesVisitante>0</golesVisitante>
+    <idEquipoVisitante>14</idEquipoVisitante>
+    <equipoVisitante>Real Valladolid</equipoVisitante>
+  </Partido>
+  <Partido>
+    <idEquipoLocal>2</idEquipoLocal>
+    <equipoLocal>Atlético de Madrid</equipoLocal>
+    <golesLocal>0</golesLocal>
+    <golesVisitante>0</golesVisitante>
+    <idEquipoVisitante>20</idEquipoVisitante>
+    <equipoVisitante>Almería</equipoVisitante>
+  </Partido>
+  <Partido>
+    <idEquipoLocal>7</idEquipoLocal>
+    <equipoLocal>Levante</equipoLocal>
+    <golesLocal>0</golesLocal>
+    <golesVisitante>0</golesVisitante>
+    <idEquipoVisitante>9</idEquipoVisitante>
+    <equipoVisitante>Real Sociedad</equipoVisitante>
+  </Partido>
+  <Partido>
+    <idEquipoLocal>1</idEquipoLocal>
+    <equipoLocal>FC Barcelona</equipoLocal>
+    <golesLocal>0</golesLocal>
+    <golesVisitante>0</golesVisitante>
+    <idEquipoVisitante>11</idEquipoVisitante>
+    <equipoVisitante>Sevilla</equipoVisitante>
+  </Partido>
+  <Partido>
+    <idEquipoLocal>16</idEquipoLocal>
+    <equipoLocal>Málaga</equipoLocal>
+    <golesLocal>0</golesLocal>
+    <golesVisitante>0</golesVisitante>
+    <idEquipoVisitante>17</idEquipoVisitante>
+    <equipoVisitante>Rayo Vallecano</equipoVisitante>
+  </Partido>
+</ArrayOfPartido>

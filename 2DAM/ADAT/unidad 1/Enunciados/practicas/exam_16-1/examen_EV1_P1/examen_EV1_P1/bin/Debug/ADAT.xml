@@ -1,0 +1,50 @@
+<InformeFaltas>
+  <Alumno HorasFaltadas="6" PorcentajeFaltas="3,82">
+    <Nombre> Ana  Ruiz Lopez </Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="0" PorcentajeFaltas="0">
+    <Nombre> Juan Alvarez Ruíz </Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="1" PorcentajeFaltas="0,64">
+    <Nombre> Antonio Sanchez Lamas </Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="0" PorcentajeFaltas="0">
+    <Nombre> Maria Gonzalez Gonzalez </Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="6" PorcentajeFaltas="3,82">
+    <Nombre>  Roberto Dieguez Roman </Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="1" PorcentajeFaltas="0,64">
+    <Nombre> Martin Crespo Diz  </Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="2" PorcentajeFaltas="1,27">
+    <Nombre> Andres Alvarez Montesinos </Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="0" PorcentajeFaltas="0">
+    <Nombre>  Lucia Dominguez Araujo</Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="0" PorcentajeFaltas="0">
+    <Nombre>  Alba Conde Romero</Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="0" PorcentajeFaltas="0">
+    <Nombre>  jose Montes Vázquez </Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="8" PorcentajeFaltas="5,1">
+    <Nombre> Luis Sobrino Gomez </Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="0" PorcentajeFaltas="0">
+    <Nombre> Jaime Salvatierra Nogueira </Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="0" PorcentajeFaltas="0">
+    <Nombre> Alberto Santos Martinez </Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="0" PorcentajeFaltas="0">
+    <Nombre>  Victor Novo Iglesias </Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="0" PorcentajeFaltas="0">
+    <Nombre> Felipe Roman Vazquez  </Nombre>
+  </Alumno>
+  <Alumno HorasFaltadas="8" PorcentajeFaltas="5,1">
+    <Nombre> Marta  Hernandez Cerdeira</Nombre>
+  </Alumno>
+</InformeFaltas>

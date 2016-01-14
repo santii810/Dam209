@@ -1,0 +1,9 @@
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\DINT 8.3\DINT 8.3\bin\Debug\DINT 8.3.exe.config
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\DINT 8.3\DINT 8.3\bin\Debug\DINT 8.3.exe
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\DINT 8.3\DINT 8.3\bin\Debug\DINT 8.3.pdb
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\DINT 8.3\DINT 8.3\obj\Debug\DINT 8.3.csprojResolveAssemblyReference.cache
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\DINT 8.3\DINT 8.3\obj\Debug\DINT_8._3.Form1.resources
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\DINT 8.3\DINT 8.3\obj\Debug\DINT_8._3.Properties.Resources.resources
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\DINT 8.3\DINT 8.3\obj\Debug\DINT 8.3.csproj.GenerateResource.Cache
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\DINT 8.3\DINT 8.3\obj\Debug\DINT 8.3.exe
+C:\Users\dam208\Documents\Visual Studio 2015\Projects\DINT 8.3\DINT 8.3\obj\Debug\DINT 8.3.pdb

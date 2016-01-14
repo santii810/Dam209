@@ -1,0 +1,9 @@
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Examen\DINT_Examen\bin\Debug\DINT_Examen.exe.config
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Examen\DINT_Examen\bin\Debug\DINT_Examen.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Examen\DINT_Examen\bin\Debug\DINT_Examen.pdb
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Examen\DINT_Examen\obj\Debug\DINT_Examen.csprojResolveAssemblyReference.cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Examen\DINT_Examen\obj\Debug\DINT_Examen.Form1.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Examen\DINT_Examen\obj\Debug\DINT_Examen.Properties.Resources.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Examen\DINT_Examen\obj\Debug\DINT_Examen.csproj.GenerateResource.Cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Examen\DINT_Examen\obj\Debug\DINT_Examen.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_Examen\DINT_Examen\obj\Debug\DINT_Examen.pdb

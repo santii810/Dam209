@@ -1,0 +1,2 @@
+c:\users\sgomez\OneDrive\Proyectos\Casa\DINT_UD2_EJ3\DINT_UD2_EJ3\bin\Debug\DINT_UD2_EJ3.exe.config
+C:\Users\sgomez\OneDrive\Proyectos\VisualStudio\DINT_UD2_EJ3\DINT_UD2_EJ3\bin\Debug\DINT_UD2_EJ3.exe.config

@@ -1,0 +1,9 @@
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_santiagoGomez\Examen1_santiagoGomez\bin\Debug\Examen1_santiagoGomez.exe.config
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_santiagoGomez\Examen1_santiagoGomez\obj\Debug\Examen1_santiagoGomez.csprojResolveAssemblyReference.cache
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_santiagoGomez\Examen1_santiagoGomez\obj\Debug\Examen1_santiagoGomez.Form1.resources
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_santiagoGomez\Examen1_santiagoGomez\obj\Debug\Examen1_santiagoGomez.Properties.Resources.resources
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_santiagoGomez\Examen1_santiagoGomez\obj\Debug\Examen1_santiagoGomez.csproj.GenerateResource.Cache
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_santiagoGomez\Examen1_santiagoGomez\bin\Debug\Examen1_santiagoGomez.exe
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_santiagoGomez\Examen1_santiagoGomez\bin\Debug\Examen1_santiagoGomez.pdb
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_santiagoGomez\Examen1_santiagoGomez\obj\Debug\Examen1_santiagoGomez.exe
+c:\users\dam209\OneDrive\Proyectos\VisualStudio\Examen1_santiagoGomez\Examen1_santiagoGomez\obj\Debug\Examen1_santiagoGomez.pdb

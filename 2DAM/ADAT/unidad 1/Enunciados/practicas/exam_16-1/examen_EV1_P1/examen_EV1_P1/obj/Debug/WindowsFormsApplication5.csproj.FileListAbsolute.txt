@@ -1,0 +1,42 @@
+c:\users\luz-pc\documents\visual studio 2012\Projects\examen_EV1_P1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\luz-pc\documents\visual studio 2012\Projects\examen_EV1_P1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\luz-pc\documents\visual studio 2012\Projects\examen_EV1_P1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\luz-pc\documents\visual studio 2012\Projects\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+c:\users\luz-pc\documents\visual studio 2012\Projects\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\luz-pc\documents\visual studio 2012\Projects\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\luz-pc\documents\visual studio 2012\Projects\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\luz-pc\documents\visual studio 2012\Projects\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\luz-pc\documents\visual studio 2012\Projects\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+G:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+G:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+G:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+G:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+G:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+G:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+G:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+G:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+G:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+I:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+I:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+I:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+H:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+H:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+H:\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+G:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+G:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+G:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+G:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+G:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+G:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+G:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+G:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+G:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+H:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+H:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+H:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+H:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+H:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+H:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+H:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+H:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+H:\curso 2013-14\ADAT\examenes\Examen\examen_parte1\examen_EV1_P1\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache

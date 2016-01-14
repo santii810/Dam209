@@ -1,0 +1,2 @@
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRSP_05Sockets\PRSP_05Sockets\bin\Debug\PRSP_05Sockets.exe.config
+C:\Users\sgomez\OneDrive\Proyectos\VisualStudio\PRSP_05Sockets\PRSP_05Sockets\bin\Debug\PRSP_05Sockets.exe.config

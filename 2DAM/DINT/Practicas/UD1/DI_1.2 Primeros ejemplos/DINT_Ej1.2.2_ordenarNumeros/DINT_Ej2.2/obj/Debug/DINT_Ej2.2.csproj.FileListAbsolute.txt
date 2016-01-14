@@ -1,0 +1,9 @@
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ej2.2\DINT_Ej2.2\bin\Debug\DINT_Ej2.2.exe.config
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ej2.2\DINT_Ej2.2\bin\Debug\DINT_Ej2.2.exe
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ej2.2\DINT_Ej2.2\bin\Debug\DINT_Ej2.2.pdb
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ej2.2\DINT_Ej2.2\obj\Debug\DINT_Ej2.2.csprojResolveAssemblyReference.cache
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ej2.2\DINT_Ej2.2\obj\Debug\DINT_Ej2._2.Form1.resources
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ej2.2\DINT_Ej2.2\obj\Debug\DINT_Ej2._2.Properties.Resources.resources
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ej2.2\DINT_Ej2.2\obj\Debug\DINT_Ej2.2.csproj.GenerateResource.Cache
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ej2.2\DINT_Ej2.2\obj\Debug\DINT_Ej2.2.exe
+C:\Users\dam209\Proyectos\VisualStudio\DINT_Ej2.2\DINT_Ej2.2\obj\Debug\DINT_Ej2.2.pdb

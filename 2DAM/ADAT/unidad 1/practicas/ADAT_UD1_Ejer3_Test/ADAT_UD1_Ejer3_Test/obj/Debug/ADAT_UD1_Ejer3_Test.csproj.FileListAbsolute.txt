@@ -1,0 +1,18 @@
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\bin\Debug\ADAT_UD1_Ejer3_Test.exe.config
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\obj\Debug\ADAT_UD1_Ejer3_Test.csprojResolveAssemblyReference.cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\obj\Debug\ADAT_UD1_Ejer3_Test.Form1.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\obj\Debug\ADAT_UD1_Ejer3_Test.Properties.Resources.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\obj\Debug\ADAT_UD1_Ejer3_Test.csproj.GenerateResource.Cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\bin\Debug\ADAT_UD1_Ejer3_Test.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\bin\Debug\ADAT_UD1_Ejer3_Test.pdb
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\obj\Debug\ADAT_UD1_Ejer3_Test.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\obj\Debug\ADAT_UD1_Ejer3_Test.pdb
+Z:\ADAT\unidad 1\practicas\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\bin\Debug\ADAT_UD1_Ejer3_Test.exe.config
+Z:\ADAT\unidad 1\practicas\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\obj\Debug\ADAT_UD1_Ejer3_Test.exe
+Z:\ADAT\unidad 1\practicas\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\obj\Debug\ADAT_UD1_Ejer3_Test.pdb
+Z:\ADAT\unidad 1\practicas\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\bin\Debug\ADAT_UD1_Ejer3_Test.exe
+Z:\ADAT\unidad 1\practicas\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\bin\Debug\ADAT_UD1_Ejer3_Test.pdb
+Z:\ADAT\unidad 1\practicas\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\obj\Debug\ADAT_UD1_Ejer3_Test.csprojResolveAssemblyReference.cache
+Z:\ADAT\unidad 1\practicas\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\obj\Debug\ADAT_UD1_Ejer3_Test.Form1.resources
+Z:\ADAT\unidad 1\practicas\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\obj\Debug\ADAT_UD1_Ejer3_Test.Properties.Resources.resources
+Z:\ADAT\unidad 1\practicas\ADAT_UD1_Ejer3_Test\ADAT_UD1_Ejer3_Test\obj\Debug\ADAT_UD1_Ejer3_Test.csproj.GenerateResource.Cache

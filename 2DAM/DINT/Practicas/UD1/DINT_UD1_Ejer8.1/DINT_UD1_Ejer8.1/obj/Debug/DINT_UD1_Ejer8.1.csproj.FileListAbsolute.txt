@@ -1,0 +1,9 @@
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_UD1_Ejer8.1\DINT_UD1_Ejer8.1\bin\Debug\DINT_UD1_Ejer8.1.exe.config
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_UD1_Ejer8.1\DINT_UD1_Ejer8.1\bin\Debug\DINT_UD1_Ejer8.1.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_UD1_Ejer8.1\DINT_UD1_Ejer8.1\bin\Debug\DINT_UD1_Ejer8.1.pdb
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_UD1_Ejer8.1\DINT_UD1_Ejer8.1\obj\Debug\DINT_UD1_Ejer8.1.csprojResolveAssemblyReference.cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_UD1_Ejer8.1\DINT_UD1_Ejer8.1\obj\Debug\DINT_UD1_Ejer8._1.Form1.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_UD1_Ejer8.1\DINT_UD1_Ejer8.1\obj\Debug\DINT_UD1_Ejer8._1.Properties.Resources.resources
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_UD1_Ejer8.1\DINT_UD1_Ejer8.1\obj\Debug\DINT_UD1_Ejer8.1.csproj.GenerateResource.Cache
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_UD1_Ejer8.1\DINT_UD1_Ejer8.1\obj\Debug\DINT_UD1_Ejer8.1.exe
+C:\Users\dam209\OneDrive\Proyectos\VisualStudio\DINT_UD1_Ejer8.1\DINT_UD1_Ejer8.1\obj\Debug\DINT_UD1_Ejer8.1.pdb

@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Juego nombre="Quiniela">
+  <Recaudacion valor="300000000" fecha="22/11/2015" />
+  <CombinacionGanadora id="21">
+    <Resultado id="1" equipoLocal="Elche" equipoVisit="Betis" rdo="X" />
+    <Resultado id="2" equipoLocal="At.Madrid" equipoVisit="Espanyol" rdo="1" />
+    <Resultado id="3" equipoLocal="Levante" equipoVisit="Celta" rdo="2" />
+    <Resultado id="4" equipoLocal="Málaga" equipoVisit="R.Madrid" rdo="2" />
+    <Resultado id="5" equipoLocal="Barcelona" equipoVisit="Osasuna" rdo="1" />
+    <Resultado id="6" equipoLocal="Sevilla" equipoVisit="Valladolid" rdo="1" />
+    <Resultado id="7" equipoLocal="Rayo Vallecano" equipoVisit="Almería" rdo="1" />
+    <Resultado id="8" equipoLocal="Ponferradina" equipoVisit="Zaragoza" rdo="1" />
+    <Resultado id="9" equipoLocal="Eibar" equipoVisit="Hércules" rdo="X" />
+    <Resultado id="10" equipoLocal="Numancia" equipoVisit="Alcorcón" rdo="2" />
+    <Resultado id="11" equipoLocal="Real Jaén" equipoVisit="Sporting" rdo="1" />
+    <Resultado id="12" equipoLocal="Girona" equipoVisit="Murcia" rdo="2" />
+    <Resultado id="13" equipoLocal="Las Palmas" equipoVisit="Sabadell" rdo="1" />
+    <Resultado id="14" equipoLocal="Córdoba" equipoVisit="Lugo" rdo="X" />
+    <Resultado id="15" equipoLocal="R.Sociedad" equipoVisit="Valencia" rdo="1" />
+  </CombinacionGanadora>
+  <Pronosticos>
+    <Pronostico id="1">
+      <Apuesta id="1" pronostico="X" />
+      <Apuesta id="2" pronostico="1" />
+      <Apuesta id="3" pronostico="2" />
+      <Apuesta id="4" pronostico="2" />
+      <Apuesta id="5" pronostico="1" />
+      <Apuesta id="6" pronostico="1" />
+      <Apuesta id="7" pronostico="1" />
+      <Apuesta id="8" pronostico="1" />
+      <Apuesta id="9" pronostico="X" />
+      <Apuesta id="10" pronostico="2" />
+      <Apuesta id="11" pronostico="1" />
+      <Apuesta id="12" pronostico="2" />
+      <Apuesta id="13" pronostico="1" />
+      <Apuesta id="14" pronostico="X" />
+      <Apuesta id="15" pronostico="1" />
+    </Pronostico>
+    <Pronostico id="2">
+      <Apuesta id="1" pronostico="X" />
+      <Apuesta id="2" pronostico="1" />
+      <Apuesta id="3" pronostico="2" />
+      <Apuesta id="4" pronostico="2" />
+      <Apuesta id="5" pronostico="1" />
+      <Apuesta id="6" pronostico="1" />
+      <Apuesta id="7" pronostico="1" />
+      <Apuesta id="8" pronostico="1" />
+      <Apuesta id="9" pronostico="1" />
+      <Apuesta id="10" pronostico="2" />
+      <Apuesta id="11" pronostico="1" />
+      <Apuesta id="12" pronostico="2" />
+      <Apuesta id="13" pronostico="X" />
+      <Apuesta id="14" pronostico="X" />
+      <Apuesta id="15" pronostico="1" />
+    </Pronostico>
+    <Pronostico id="3">
+      <Apuesta id="1" pronostico="X" />
+      <Apuesta id="2" pronostico="1" />
+      <Apuesta id="3" pronostico="2" />
+      <Apuesta id="4" pronostico="2" />
+      <Apuesta id="5" pronostico="1" />
+      <Apuesta id="6" pronostico="1" />
+      <Apuesta id="7" pronostico="1" />
+      <Apuesta id="8" pronostico="2" />
+      <Apuesta id="9" pronostico="X" />
+      <Apuesta id="10" pronostico="2" />
+      <Apuesta id="11" pronostico="1" />
+      <Apuesta id="12" pronostico="2" />
+      <Apuesta id="13" pronostico="X" />
+      <Apuesta id="14" pronostico="X" />
+      <Apuesta id="15" pronostico="1" />
+    </Pronostico>
+    <Pronostico id="4">
+      <Apuesta id="1" pronostico="X" />
+      <Apuesta id="2" pronostico="1" />
+      <Apuesta id="3" pronostico="2" />
+      <Apuesta id="4" pronostico="2" />
+      <Apuesta id="5" pronostico="1" />
+      <Apuesta id="6" pronostico="X" />
+      <Apuesta id="7" pronostico="1" />
+      <Apuesta id="8" pronostico="1" />
+      <Apuesta id="9" pronostico="X" />
+      <Apuesta id="10" pronostico="2" />
+      <Apuesta id="11" pronostico="1" />
+      <Apuesta id="12" pronostico="2" />
+      <Apuesta id="13" pronostico="1" />
+      <Apuesta id="14" pronostico="X" />
+      <Apuesta id="15" pronostico="1" />
+    </Pronostico>
+    <Pronostico id="5">
+      <Apuesta id="1" pronostico="X" />
+      <Apuesta id="2" pronostico="1" />
+      <Apuesta id="3" pronostico="2" />
+      <Apuesta id="4" pronostico="2" />
+      <Apuesta id="5" pronostico="1" />
+      <Apuesta id="6" pronostico="1" />
+      <Apuesta id="7" pronostico="X" />
+      <Apuesta id="8" pronostico="1" />
+      <Apuesta id="9" pronostico="X" />
+      <Apuesta id="10" pronostico="2" />
+      <Apuesta id="11" pronostico="1" />
+      <Apuesta id="12" pronostico="2" />
+      <Apuesta id="13" pronostico="2" />
+      <Apuesta id="14" pronostico="X" />
+      <Apuesta id="15" pronostico="1" />
+    </Pronostico>
+    <Pronostico id="6">
+      <Apuesta id="1" pronostico="X" />
+      <Apuesta id="2" pronostico="1" />
+      <Apuesta id="3" pronostico="2" />
+      <Apuesta id="4" pronostico="2" />
+      <Apuesta id="5" pronostico="1" />
+      <Apuesta id="6" pronostico="1" />
+      <Apuesta id="7" pronostico="1" />
+      <Apuesta id="8" pronostico="2" />
+      <Apuesta id="9" pronostico="X" />
+      <Apuesta id="10" pronostico="2" />
+      <Apuesta id="11" pronostico="1" />
+      <Apuesta id="12" pronostico="2" />
+      <Apuesta id="13" pronostico="1" />
+      <Apuesta id="14" pronostico="X" />
+      <Apuesta id="15" pronostico="1" />
+    </Pronostico>
+    <Pronostico id="7">
+      <Apuesta id="1" pronostico="X" />
+      <Apuesta id="2" pronostico="1" />
+      <Apuesta id="3" pronostico="X" />
+      <Apuesta id="4" pronostico="2" />
+      <Apuesta id="5" pronostico="1" />
+      <Apuesta id="6" pronostico="1" />
+      <Apuesta id="7" pronostico="X" />
+      <Apuesta id="8" pronostico="1" />
+      <Apuesta id="9" pronostico="X" />
+      <Apuesta id="10" pronostico="2" />
+      <Apuesta id="11" pronostico="X" />
+      <Apuesta id="12" pronostico="2" />
+      <Apuesta id="13" pronostico="1" />
+      <Apuesta id="14" pronostico="X" />
+      <Apuesta id="15" pronostico="1" />
+    </Pronostico>
+    <Pronostico id="8">
+      <Apuesta id="1" pronostico="X" />
+      <Apuesta id="2" pronostico="1" />
+      <Apuesta id="3" pronostico="2" />
+      <Apuesta id="4" pronostico="1" />
+      <Apuesta id="5" pronostico="1" />
+      <Apuesta id="6" pronostico="1" />
+      <Apuesta id="7" pronostico="X" />
+      <Apuesta id="8" pronostico="1" />
+      <Apuesta id="9" pronostico="X" />
+      <Apuesta id="10" pronostico="2" />
+      <Apuesta id="11" pronostico="1" />
+      <Apuesta id="12" pronostico="2" />
+      <Apuesta id="13" pronostico="2" />
+      <Apuesta id="14" pronostico="X" />
+      <Apuesta id="15" pronostico="1" />
+    </Pronostico>
+    <Pronostico id="9">
+      <Apuesta id="1" pronostico="1" />
+      <Apuesta id="2" pronostico="1" />
+      <Apuesta id="3" pronostico="1" />
+      <Apuesta id="4" pronostico="2" />
+      <Apuesta id="5" pronostico="X" />
+      <Apuesta id="6" pronostico="X" />
+      <Apuesta id="7" pronostico="1" />
+      <Apuesta id="8" pronostico="1" />
+      <Apuesta id="9" pronostico="X" />
+      <Apuesta id="10" pronostico="2" />
+      <Apuesta id="11" pronostico="1" />
+      <Apuesta id="12" pronostico="2" />
+      <Apuesta id="13" pronostico="1" />
+      <Apuesta id="14" pronostico="X" />
+      <Apuesta id="15" pronostico="1" />
+    </Pronostico>
+    <Pronostico id="10">
+      <Apuesta id="1" pronostico="X" />
+      <Apuesta id="2" pronostico="1" />
+      <Apuesta id="3" pronostico="2" />
+      <Apuesta id="4" pronostico="2" />
+      <Apuesta id="5" pronostico="X" />
+      <Apuesta id="6" pronostico="X" />
+      <Apuesta id="7" pronostico="1" />
+      <Apuesta id="8" pronostico="X" />
+      <Apuesta id="9" pronostico="X" />
+      <Apuesta id="10" pronostico="X" />
+      <Apuesta id="11" pronostico="2" />
+      <Apuesta id="12" pronostico="1" />
+      <Apuesta id="13" pronostico="1" />
+      <Apuesta id="14" pronostico="X" />
+      <Apuesta id="15" pronostico="1" />
+    </Pronostico>
+    <Pronostico id="11">
+      <Apuesta id="1" pronostico="X" />
+      <Apuesta id="2" pronostico="1" />
+      <Apuesta id="3" pronostico="2" />
+      <Apuesta id="4" pronostico="2" />
+      <Apuesta id="5" pronostico="1" />
+      <Apuesta id="6" pronostico="1" />
+      <Apuesta id="7" pronostico="1" />
+      <Apuesta id="8" pronostico="1" />
+      <Apuesta id="9" pronostico="X" />
+      <Apuesta id="10" pronostico="2" />
+      <Apuesta id="11" pronostico="1" />
+      <Apuesta id="12" pronostico="2" />
+      <Apuesta id="13" pronostico="1" />
+      <Apuesta id="14" pronostico="X" />
+      <Apuesta id="15" pronostico="1" />
+    </Pronostico>
+    <Pronostico id="12">
+      <Apuesta id="1" pronostico="X" />
+      <Apuesta id="2" pronostico="1" />
+      <Apuesta id="3" pronostico="2" />
+      <Apuesta id="4" pronostico="X" />
+      <Apuesta id="5" pronostico="1" />
+      <Apuesta id="6" pronostico="1" />
+      <Apuesta id="7" pronostico="1" />
+      <Apuesta id="8" pronostico="1" />
+      <Apuesta id="9" pronostico="X" />
+      <Apuesta id="10" pronostico="2" />
+      <Apuesta id="11" pronostico="1" />
+      <Apuesta id="12" pronostico="2" />
+      <Apuesta id="13" pronostico="1" />
+      <Apuesta id="14" pronostico="X" />
+      <Apuesta id="15" pronostico="1" />
+    </Pronostico>
+    <Pronostico id="13">
+      <Apuesta id="1" pronostico="X" />
+      <Apuesta id="2" pronostico="1" />
+      <Apuesta id="3" pronostico="2" />
+      <Apuesta id="4" pronostico="2" />
+      <Apuesta id="5" pronostico="1" />
+      <Apuesta id="6" pronostico="1" />
+      <Apuesta id="7" pronostico="1" />
+      <Apuesta id="8" pronostico="1" />
+      <Apuesta id="9" pronostico="X" />
+      <Apuesta id="10" pronostico="2" />
+      <Apuesta id="11" pronostico="1" />
+      <Apuesta id="12" pronostico="2" />
+      <Apuesta id="13" pronostico="1" />
+      <Apuesta id="14" pronostico="X" />
+      <Apuesta id="15" pronostico="1" />
+    </Pronostico>
+    <Pronostico id="14">
+      <Apuesta id="1" pronostico="X" />
+      <Apuesta id="2" pronostico="1" />
+      <Apuesta id="3" pronostico="2" />
+      <Apuesta id="4" pronostico="2" />
+      <Apuesta id="5" pronostico="1" />
+      <Apuesta id="6" pronostico="X" />
+      <Apuesta id="7" pronostico="1" />
+      <Apuesta id="8" pronostico="1" />
+      <Apuesta id="9" pronostico="X" />
+      <Apuesta id="10" pronostico="1" />
+      <Apuesta id="11" pronostico="X" />
+      <Apuesta id="12" pronostico="2" />
+      <Apuesta id="13" pronostico="1" />
+      <Apuesta id="14" pronostico="2" />
+      <Apuesta id="15" pronostico="1" />
+    </Pronostico>
+  </Pronosticos>
+</Juego>
