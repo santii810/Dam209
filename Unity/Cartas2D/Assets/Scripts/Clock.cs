@@ -40,14 +40,14 @@ public class Clock : MonoBehaviour
         {
             timeText.text = ((int)time).ToString();
         }
-        /*
+       
         if (time <= 0)
         {
             clockIsPaused = true;
             Game game = GetComponent<Game>();
             game.Lose();
         }
-        */
+      
     }
 
     public void PauseClock()

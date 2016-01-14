@@ -95,6 +95,7 @@ public class Game : MonoBehaviour
         }
 
         card.isFaceUp = true;
+
         cardsUI[num].sprite = Resources.Load<Sprite>(cards[num].image);
         if (cardFlipped1 == -1)
         {
@@ -114,11 +115,14 @@ public class Game : MonoBehaviour
         if (cards[cardFlipped1].id == cards[cardFlipped2].id)
         {
             // Match!
-            Sprite sprite = Resources.Load<Sprite>("blank");
             cards[cardFlipped1].isMatched = true;
-            cardsUI[cardFlipped1].sprite = sprite;
+            cardsUI[cardFlipped1].gameObject.SetActive(false);
             cards[cardFlipped2].isMatched = true;
-            cardsUI[cardFlipped2].sprite = sprite;
+            cardsUI[cardFlipped2].gameObject.SetActive(false);
+            //cambia a carta blanca
+            //Sprite sprite = Resources.Load<Sprite>("blank");
+            //cardsUI[cardFlipped1].sprite = sprite;
+            //cardsUI[cardFlipped2].sprite = sprite;
 
             matchesMade++;
 
