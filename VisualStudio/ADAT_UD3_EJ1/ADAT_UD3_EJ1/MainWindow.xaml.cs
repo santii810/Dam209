@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ADAT_UD3_EJ1.LenguajeADAT;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +21,21 @@ namespace ADAT_UD3_EJ1
     /// </summary>
     public partial class MainWindow : Window
     {
+        GestorBD gestor = new GestorBD();
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            this.dataGrid.ItemsSource = gestor.obtenerCursos(5).Select(k => new { k.CourseId, k.CourseName, k.Teacher.TeacherName }).ToList();
+            
+        }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+             this.dataGrid.ItemsSource = gestor.obtenerEstudiantes().Where(k=> k.StudentID <=3).Select(k=> new { k.StudentID, k.StudentName, k.StudentAddress.Address1, k.StudentAddress.City }).ToList();
         }
     }
 }
