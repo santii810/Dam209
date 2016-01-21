@@ -1,0 +1,29 @@
+﻿<Window x:Class="ADAT_UD3_EJ1.AddAlumno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ADAT_UD3_EJ1"
+        mc:Ignorable="d"
+        Title="AddAlumno" Height="416.343" Width="610.804">
+    <Grid>
+        <Label x:Name="label" Content="IdStudent" HorizontalAlignment="Left" Height="29" Margin="21,25,0,0" VerticalAlignment="Top" Width="88"/>
+        <Label x:Name="label_Copy" Content="StudentName" HorizontalAlignment="Left" Height="29" Margin="21,59,0,0" VerticalAlignment="Top" Width="88"/>
+        <Label x:Name="label_Copy1" Content="StardartId" HorizontalAlignment="Left" Height="29" Margin="21,93,0,0" VerticalAlignment="Top" Width="88"/>
+        <Label x:Name="label_Copy2" Content="Adress1" HorizontalAlignment="Left" Height="29" Margin="21,127,0,0" VerticalAlignment="Top" Width="88"/>
+        <Label x:Name="label_Copy3" Content="Address2" HorizontalAlignment="Left" Height="29" Margin="297,25,0,0" VerticalAlignment="Top" Width="88"/>
+        <Label x:Name="label_Copy4" Content="City" HorizontalAlignment="Left" Height="29" Margin="297,59,0,0" VerticalAlignment="Top" Width="88" RenderTransformOrigin="0.443,2.045"/>
+        <Label x:Name="label_Copy5" Content="State" HorizontalAlignment="Left" Height="29" Margin="297,93,0,0" VerticalAlignment="Top" Width="88" RenderTransformOrigin="0.443,2.045"/>
+        <TextBox x:Name="textBoxIdStudent" HorizontalAlignment="Left" Height="29" Margin="125,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="157"/>
+        <TextBox x:Name="textBoxStudentName" HorizontalAlignment="Left" Height="29" Margin="125,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="157"/>
+        <TextBox x:Name="textBoxAddress1" HorizontalAlignment="Left" Height="29" Margin="125,127,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="157"/>
+        <TextBox x:Name="textBoxAddress2" HorizontalAlignment="Left" Height="29" Margin="401,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="157"/>
+        <TextBox x:Name="textBoxCity" HorizontalAlignment="Left" Height="29" Margin="401,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="157"/>
+        <TextBox x:Name="textBoxState" HorizontalAlignment="Left" Height="29" Margin="401,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="157"/>
+        <ComboBox x:Name="comboBoxStardartId" HorizontalAlignment="Left" Height="29" Margin="125,93,0,0" VerticalAlignment="Top" Width="157"/>
+        <GroupBox x:Name="groupBox" Header="Cursos" HorizontalAlignment="Left" Height="193" Margin="21,174,0,0" VerticalAlignment="Top" Width="143">
+            <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="174" Margin="0,0,-2,-3" VerticalAlignment="Top" Width="133"/>
+
+        </GroupBox>
+    </Grid>
+</Window>

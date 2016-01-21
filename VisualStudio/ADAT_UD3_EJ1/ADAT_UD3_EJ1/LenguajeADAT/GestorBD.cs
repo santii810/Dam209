@@ -13,7 +13,7 @@ namespace ADAT_UD3_EJ1.LenguajeADAT
         {
             return context.Course.ToList();
         }
-        public ICollection<Course> obtenerCursos(int prof)
+        public ICollection<Course> obtenerCursosProfesor(int prof)
         {
             return context.Course.Where(k=>k.TeacherId == prof).ToList();
         }
@@ -21,6 +21,10 @@ namespace ADAT_UD3_EJ1.LenguajeADAT
         public ICollection<Student> obtenerEstudiantes()
         {
             return context.Student.ToList();
+        }
+        public Student obtenerEstudiante(int idEstudiante)
+        {
+            return context.Student.Where(i => i.StudentID == idEstudiante).FirstOrDefault();
         }
     }
 }

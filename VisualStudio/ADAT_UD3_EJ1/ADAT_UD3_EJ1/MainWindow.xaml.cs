@@ -29,13 +29,25 @@ namespace ADAT_UD3_EJ1
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            this.dataGrid.ItemsSource = gestor.obtenerCursos(5).Select(k => new { k.CourseId, k.CourseName, k.Teacher.TeacherName }).ToList();
+            this.dataGrid.ItemsSource = gestor.obtenerCursosProfesor(5).Select(k => new { k.CourseId, k.CourseName, k.Teacher.TeacherName }).ToList();
             
         }
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
              this.dataGrid.ItemsSource = gestor.obtenerEstudiantes().Where(k=> k.StudentID <=3).Select(k=> new { k.StudentID, k.StudentName, k.StudentAddress.Address1, k.StudentAddress.City }).ToList();
+        }
+
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            int estudiante = 1;
+            dataGrid.ItemsSource = gestor.obtenerEstudiante(estudiante).Course.Select(i=> new { i.CourseId,i.CourseName,i.Teacher.TeacherName}).ToList();
+        }
+
+        private void button3_Click(object sender, RoutedEventArgs e)
+        {
+            AddAlumno addAlumno = new AddAlumno();
+            addAlumno.Show();
         }
     }
 }
