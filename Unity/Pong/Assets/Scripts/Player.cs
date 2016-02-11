@@ -7,16 +7,18 @@ public class Player : MonoBehaviour
     Rigidbody2D rigid;
 
     [SerializeField]
-    private KeyCode up = KeyCode.UpArrow;
+    private KeyCode up = KeyCode.Q;
     [SerializeField]
-    private KeyCode down = KeyCode.DownArrow;
+    private KeyCode down = KeyCode.A;
     [SerializeField]
     private float speed = 10;
+    [SerializeField]
+    private GameObject bola;
 
     // Use this for initialization
     void Start()
     {
-        rigid = GetComponent<Rigidbody2D>();        
+        rigid = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -27,6 +29,8 @@ public class Player : MonoBehaviour
 
     public void FixedUpdate()
     {
+
+
         Vector2 velocity = Vector2.zero;
         if (Input.GetKey(up))
         {
@@ -36,8 +40,10 @@ public class Player : MonoBehaviour
         {
             velocity.y = -speed;
         }
-
         rigid.velocity = velocity;
+
+
+
     }
-    
+
 }

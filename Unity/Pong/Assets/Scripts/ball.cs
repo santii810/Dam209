@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/// <summary>
+/// 
+/// </summary>
 public class ball : MonoBehaviour
 {
     Rigidbody2D rigidbody;
@@ -67,4 +70,5 @@ public class ball : MonoBehaviour
         }
 
     }
+
 }

@@ -20,7 +20,12 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     public GameObject winPanel;
     [SerializeField]
+    public GameObject palaIzda;
+    [SerializeField]
+    public GameObject bola;
+    [SerializeField]
     public Text winText;
+    public static bool botActivo { get; set; }
 
     // Use this for initialization
     void Start()
@@ -28,7 +33,19 @@ public class GameManager : MonoBehaviour
         restart();
         winPanel.SetActive(false);
     }
+    void Awake()
+    {
+        if (botActivo)
+        {
+            palaIzda.AddComponent<PlayerBot>();
+            palaIzda.GetComponent<PlayerBot>().Bola = bola;
+        }
+        else
+        {
+            palaIzda.AddComponent<Player>();
+        }
 
+    }
     // Update is called once per frame
     void Update()
     {
@@ -77,5 +94,6 @@ public class GameManager : MonoBehaviour
         Time.timeScale = 1;
         winPanel.SetActive(false);
     }
+
 }
 
