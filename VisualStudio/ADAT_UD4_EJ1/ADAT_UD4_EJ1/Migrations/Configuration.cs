@@ -5,7 +5,7 @@ namespace ADAT_UD4_EJ1.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<ADAT_UD4_EJ1.Model.Context>
+    internal sealed class Configuration : <ADAT_UD4_EJ1.Model.Context>
     {
         public Configuration()
         {
