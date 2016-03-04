@@ -7,3 +7,6 @@ C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRPS_Proyecto1\PRPS_Proyecto1\ob
 C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRPS_Proyecto1\PRPS_Proyecto1\obj\Debug\PRPS_Proyecto1.csproj.GenerateResource.Cache
 C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRPS_Proyecto1\PRPS_Proyecto1\obj\Debug\PRPS_Proyecto1.exe
 C:\Users\dam209\OneDrive\Proyectos\VisualStudio\PRPS_Proyecto1\PRPS_Proyecto1\obj\Debug\PRPS_Proyecto1.pdb
+C:\Users\dam209\Proyectos\2DAM\PRSP\Sockets\PRPS_Proyecto1\PRPS_Proyecto1\bin\Debug\PRPS_Proyecto1.exe.config
+C:\Users\dam209\Proyectos\2DAM\PRSP\Sockets\PRPS_Proyecto1\PRPS_Proyecto1\obj\Debug\PRPS_Proyecto1.exe
+C:\Users\dam209\Proyectos\2DAM\PRSP\Sockets\PRPS_Proyecto1\PRPS_Proyecto1\obj\Debug\PRPS_Proyecto1.pdb

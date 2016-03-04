@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+  <data>
+    <menuitem name="Santi" id="Santi1" sequence="90"/>
+    <menuitem name="Ejemplo" id="Ejemplos" parent="Santi1"/>
+   
+    
+	<record model="ir.ui.view" id="santi_obxecto_tree">
+      <field name="name">santi.tree</field>
+      <field name="model">santi</field>
+      <field name="type">tree</field>
+      <field name="arch" type="xml">
+        <tree string="obxecto">
+          <field name="texto"/>
+          <field name="boleano"/>
+          <field name="numerico"/>
+        </tree>
+      </field>
+    </record>
+
+    <record model="ir.ui.view" id="santi_obxecto_form">
+      <field name="name">santi.form</field>
+      <field name="model">santi</field>
+      <field name="type">form</field>
+      <field name="arch" type="xml">
+        <form string="obxecto">
+          <group string="Nome do grupo">
+          <field name="texto"/>
+          <field name="boleano"/>
+          <field name="numerico"/>
+          </group>
+		</form>
+	  </field>
+     </record>     
+	 
+	  <record id="santi_action" model="ir.actions.act_window">
+      <field name="name">Ejemplo</field>
+      <field name="res_model">santi</field>
+      <field name="view_type">form</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+    <menuitem action="santi_action" id="santi_menu" sequence="1" parent="Ejemplos"/>
+  </data>
+</openerp>

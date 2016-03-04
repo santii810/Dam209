@@ -49,5 +49,10 @@ namespace ADAT_UD3_EJ2
             gestor.obtenerHistoriales();
             this.dataGridView1.DataSource = gestor.ds.Historiales;
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
